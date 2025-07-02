@@ -1,2 +1,2 @@
 local player = game.Players.LocalPlayers
-local char = Player.Character or 
+local char = player.Character or player.
