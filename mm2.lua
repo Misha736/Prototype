@@ -5,5 +5,5 @@ local humanoid = char:WaitForChild("Humanoid")
 if humanoid.WalkSpeed == 200 then
     humanoid.WalkSpeed = 20
 else
-humanoid.WalkSpeed == 200
+    humanoid.WalkSpeed = 200
 end
